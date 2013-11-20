@@ -20,4 +20,4 @@ p6.reviews << Review.create(content: "How do I internet?")
 p7.reviews << Review.create(content: "I put it in water and then it went faster")
 p7.reviews << Review.create(content: "It gives me wings")
 p8.reviews << Review.create(content: "Good fit")
-p8.reviews << Review.create(content: "What is this")
+
