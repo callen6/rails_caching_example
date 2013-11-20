@@ -1,1 +1,6 @@
-<%= product.name %>
+<div class="product">
+	<h3><%= product.name %></h3>
+	<div>Number Reviews: <%= product.reviews.count %></div>
+	<div>Price: <%= product.price %></div>
+</div>
+<%= link_to "Add Review", new_product_review_path(product) %>
