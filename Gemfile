@@ -25,3 +25,5 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+gem 'twitter'
+
