@@ -25,5 +25,5 @@ group :doc do
   gem 'sdoc', require: false
 end
 
-gem 'twitter'
+gem 'twitter', '5.0.0'
 
