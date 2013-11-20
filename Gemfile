@@ -14,6 +14,7 @@ gem 'rack-cache'
 gem 'redis-rack-cache'
 # Caching ends here
 
+gem 'twitter', '5.0.0'
 gem 'rails_12factor'
 gem 'foreman'
 gem 'puma'
